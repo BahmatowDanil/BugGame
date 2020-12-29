@@ -1,0 +1,13 @@
+C:\Users\mrmel\source\repos\Bug\Bug\bin\Debug\netcoreapp3.1\Bug.exe
+C:\Users\mrmel\source\repos\Bug\Bug\bin\Debug\netcoreapp3.1\Bug.deps.json
+C:\Users\mrmel\source\repos\Bug\Bug\bin\Debug\netcoreapp3.1\Bug.runtimeconfig.json
+C:\Users\mrmel\source\repos\Bug\Bug\bin\Debug\netcoreapp3.1\Bug.runtimeconfig.dev.json
+C:\Users\mrmel\source\repos\Bug\Bug\bin\Debug\netcoreapp3.1\Bug.dll
+C:\Users\mrmel\source\repos\Bug\Bug\bin\Debug\netcoreapp3.1\Bug.pdb
+C:\Users\mrmel\source\repos\Bug\Bug\obj\Debug\netcoreapp3.1\Bug.csprojAssemblyReference.cache
+C:\Users\mrmel\source\repos\Bug\Bug\obj\Debug\netcoreapp3.1\Bug.AssemblyInfoInputs.cache
+C:\Users\mrmel\source\repos\Bug\Bug\obj\Debug\netcoreapp3.1\Bug.AssemblyInfo.cs
+C:\Users\mrmel\source\repos\Bug\Bug\obj\Debug\netcoreapp3.1\Bug.csproj.CoreCompileInputs.cache
+C:\Users\mrmel\source\repos\Bug\Bug\obj\Debug\netcoreapp3.1\Bug.dll
+C:\Users\mrmel\source\repos\Bug\Bug\obj\Debug\netcoreapp3.1\Bug.pdb
+C:\Users\mrmel\source\repos\Bug\Bug\obj\Debug\netcoreapp3.1\Bug.genruntimeconfig.cache
